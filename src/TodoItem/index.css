@@ -1,0 +1,19 @@
+.todolist{
+    list-style-type: none;
+    display: flex;
+    padding:10px;
+    justify-content: space-between;
+}
+.title{
+    text-align: center;
+    font-size: 15px;
+    color:black;
+    font-weight: 400;
+}
+.button{
+    padding:5px;
+    width:80px;
+    color:#ff0b37;
+    border:2px solid #ff0b37;
+    border-radius: 5px;
+}

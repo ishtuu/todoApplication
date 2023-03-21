@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.todo-background{
+    background-color: #ffc2a0;
+    border:2px solid #ff8542;
+    height: 100vh;
+}
+.todo-container{
+    background-color: #ffffff;
+    height:80%;
+    width:80%;
+    margin-left:120px;
+    border-radius: 20px;
+    margin-top:60px;
+    margin-bottom:60px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    text-align: center;
+    color: #ff8542;
+    font-size: 30px;
+
+}
